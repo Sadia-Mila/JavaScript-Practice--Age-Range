@@ -9,7 +9,7 @@
 // SeniorCitizen: 60+ years
 
 
-let age = 112
+let age = 32;
 
 if (age > 0 && age <= 3) {
   console.log("You are Baby");
